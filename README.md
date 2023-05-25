@@ -4,9 +4,9 @@
 
 ## Exercíos Módulo 1
 
-* 001 >> Primeiros passos
-* 002 >> Tipos primitivos
-* 003 >> Estruturas de repetição
-* 004 >> Estruturas de decisão
-* 005 >> Estruturas de repetição com condição
-* 006 >> Estruturas de repetição com condição e decisão
+* 001 >> Deixando tudo pronto
+* 002 >> Respondendo ao usuário
+* 003 >> Somando dois números
+* 004 >> Dissecando uma variável
+* 005 >> Antecessor e Sucessor
+* 006 >> Dobro, Triplo, Raiz Quadrada

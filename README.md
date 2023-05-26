@@ -52,3 +52,14 @@
 * 043 >> Índice de massa corporal
 * 044 >> Gerenciador de pagamentos
 * 045 >> GAME: pedra papel e tesoura
+* 046 >> Contagem regressiva 
+* 047 >> Contagem de pares
+* 048 >> Soma ímpares múltiplos de três
+* 049 >> Tabuada v 2.0
+* 050 >> Soma dos pares
+* 051 >> Progressão aritmética
+* 052 >> Números primos
+* 053 >> Detector de palindromo
+* 054 >> Grupo maioridade
+* 055 >> Maior e menor sequência
+* 056 >> Analisador completo

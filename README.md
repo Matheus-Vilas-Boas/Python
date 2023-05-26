@@ -63,3 +63,18 @@
 * 054 >> Grupo maioridade
 * 055 >> Maior e menor sequência
 * 056 >> Analisador completo
+* 057 >> Validação de dados
+* 058 >> Jogo da Adivinhação v2.0
+* 059 >> Criando menu de opções
+* 060 >> cálculo do fatorial
+* 061 >> Progressão Aritmética v2.0
+* 062 >> Super progressão aritmética
+* 063 >> Sequência fribonacci v1.0
+* 064 >> Tratando vários valores v1.0
+* 065 >> Maior e menor valores
+* 066 >> Vários números com flag
+* 067 >> Tabuada v3.0
+* 068 >> Jogo do par ou ímpar
+* 069 >> Análise de dados do grupo
+* 070 >> Estátistica em produtos
+* 071 >> Simulador de caixa eletrônico

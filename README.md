@@ -25,12 +25,18 @@
 * 019 >> Sorteando um item na lista
 * 020 >> Sorteando um ordem na lista
 * 021 >> Tocando um MP3
-* 022 >> Manipulando um texto
-* 023 >> Analisador de textos
-* 024 >> Separando dígitos de um número
-* 025 >> Verificando primeira letra de um texto
-* 026 >> Procurando uma string dentro de outra
-* 027 >> Primeira e última ocorrência de uma string
-* 028 >> Primeiro e último nome de uma pessoa
-* 029 >>
-* 030 >>
+* 022 >> Analisador de textos
+* 023 >> Separando dígitos de um número
+* 024 >> Verificando primeira letra de um texto
+* 025 >> Procurando uma string dentro de outra
+* 026 >> Primeira e última ocorrência de uma string
+* 027 >> Primeiro e último nome de uma pessoa
+* 028 >> Jogo da adivinhação V 1.0
+* 029 >> Radar eletrônico
+* 030 >> Par ou Ímpar?
+* 031 >> Custo de viajem
+* 032 >> Ano bissesto
+* 033 >> Maior e menor valores
+* 034 >> Aumentos múltiplos
+* 035 >> Analisando triângulo V 1.0
+

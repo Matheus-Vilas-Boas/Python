@@ -40,3 +40,15 @@
 * 034 >> Aumentos múltiplos
 * 035 >> Analisando triângulo V 1.0
 
+## Exercíos Módulo 2
+
+* 036 >> Aprovando empréstimo
+* 037 >> Conversor de Bases numéricas
+* 038 >> Comparando números
+* 039 >> Alistamento militar
+* 040 >> Aquele clássico da média
+* 041 >> Classificando atletas
+* 042 >> Analisando triângulos v2.0
+* 043 >> Índice de massa corporal
+* 044 >> Gerenciador de pagamentos
+* 045 >> GAME: pedra papel e tesoura

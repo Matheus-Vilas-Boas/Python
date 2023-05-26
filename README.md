@@ -78,3 +78,6 @@
 * 069 >> Análise de dados do grupo
 * 070 >> Estátistica em produtos
 * 071 >> Simulador de caixa eletrônico
+
+## Exercíos Módulo 3
+

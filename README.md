@@ -81,3 +81,17 @@
 
 ## Exercíos Módulo 3
 
+* 072 >> Número por Extenso
+* 073 >> Times de Futebol
+* 074 >> Maior e menor valores em Tupla
+* 075 >> Análise de dados em uma Tupla
+* 076 >> Lista de Preços com Tuplas
+* 077 >> Contando Vogais em Tuplas
+* 078 >> Maior e Menor valores na Lista
+* 079 >> Valores únicos em uma Lista
+* 080 >> Lista ordenada sem repetições
+* 081 >> Extraindo dados de uma Lista
+* 082 >> Dividindo valores em várias listas
+* 083 >> Validando expressões matemáticas
+* 084 >>
+* 085 >>
